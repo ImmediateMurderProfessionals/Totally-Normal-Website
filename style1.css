@@ -1,12 +1,12 @@
 body {
-  background-image: url("HTS.png");
+  background-image: url("404.png");
   font-family: "Noto Sans", "IBM Plex Sans", Verdana, sans-serif;
 }
 
 blockquote {
   margin: 18px;
   padding: 18px;
-  background-color: #ffb433;
+  background-color: #abcdef;
 }
 
 .date {
@@ -17,7 +17,7 @@ blockquote {
 #toc {
   margin: 8px;
   padding: 8px;
-  background-color: #ffb433;
+  background-color: #abcdef;
   width: fit-content
 }
 
@@ -28,11 +28,11 @@ blockquote {
 
 table {
   border-collapse: collapse;
-  background-color: #ffffff;
+  background-color: #654321;
 }
 
 td, th {
-  border: 1px solid #000000;
+  border: 1px solid #877898;
   text-align: left;
   padding: 10px;
 }
